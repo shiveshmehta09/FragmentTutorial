@@ -1,9 +1,10 @@
-package mehta.shivesh.com.fragmenttutorial;
+package mehta.shivesh.com.fragmenttutorial.ui;
 
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import mehta.shivesh.com.fragmenttutorial.R;
 import mehta.shivesh.com.fragmenttutorial.data.ImageAssests;
 
 public class AndroidMainActivity extends AppCompatActivity {
